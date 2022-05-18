@@ -7,5 +7,5 @@ const spanNomeUtente = document.getElementById("nomeUtente")
 console.dir(spanNomeUtente);
 
 spanNomeUtente.innerHTML = `<span class=text-white>
-                            ${nomeUtente} ${cognomeUtente} ${colorePreferito} 22
+                            ${nomeUtente}${cognomeUtente}${colorePreferito}22
                             </span>`
